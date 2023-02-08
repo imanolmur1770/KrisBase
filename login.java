@@ -19,7 +19,7 @@ public class login extends JFrame {
     //root panel of page
     private JLabel anLabel;
     //lets you know if you put the password in correctly or incorrectly
-    private final String key = "Kriscake.7";
+    private final String key = "Hello135!?";
     //password
 
     //login page with all it functions
